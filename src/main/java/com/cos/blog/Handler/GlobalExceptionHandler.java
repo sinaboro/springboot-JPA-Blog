@@ -12,4 +12,4 @@ public class GlobalExceptionHandler {
 	public String handlerArgumentException(IllegalArgumentException e) {
 		return "<h1>"+e.getMessage()+"</h1>";
 	}
-}
+} 
